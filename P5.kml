@@ -1,0 +1,2115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ACME NIRMAL P5.kmz</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>ACME NIRMAL P5</name>
+		<GroundOverlay>
+			<name>P5map</name>
+			<description>Source Image: D:\14w\acmenirmal\P5map\UntitledMapP5_Orthomosaic_export_SunDec23064035.tif</description>
+			<Icon>
+				<href>files/UntitledMapP5_Orthomosaic_export_SunDec23064035_scaled.png</href>
+				<viewBoundScale>0.75</viewBoundScale>
+			</Icon>
+			<LatLonBox>
+				<north>19.13000489471813</north>
+				<south>19.12822082404163</south>
+				<east>78.24265483098661</east>
+				<west>78.23673248291013</west>
+			</LatLonBox>
+		</GroundOverlay>
+		<Placemark>
+			<name>20181222_150213.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1283710</code>, <b>Lon: </b><code>78.2401894</code><b></b><br/><br/><img src='files/20181222_150213.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150213.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.24018940000001</longitude>
+				<latitude>19.128371</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.24018940000001,19.128371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 105 </name>
+			<description>4
+20181222_150213.jpg
+(2,2)(2,11)</description>
+			<LookAt>
+				<longitude>78.24014649727737</longitude>
+				<latitude>19.12846255913005</latitude>
+				<altitude>0</altitude>
+				<heading>-3.706365675230559</heading>
+				<tilt>23.54088724192614</tilt>
+				<range>146.2134756257156</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24012917413256,19.12854768974725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 106 </name>
+			<description>1
+20181222_150213.jpg
+(2,1)</description>
+			<LookAt>
+				<longitude>78.24038525683035</longitude>
+				<latitude>19.12856438970011</latitude>
+				<altitude>0</altitude>
+				<heading>-3.706287435507244</heading>
+				<tilt>23.54089034722679</tilt>
+				<range>147.0790194035208</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24034828958952,19.12859323402745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150306.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1285504</code>, <b>Lon: </b><code>78.2408372</code><b></b><br/><br/><img src='files/20181222_150306.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150306.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2408372</longitude>
+				<latitude>19.1285504</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2408372,19.1285504,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 107 </name>
+			<description>8
+20181222_150306.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.24060041559932</longitude>
+				<latitude>19.12866617919973</latitude>
+				<altitude>0</altitude>
+				<heading>-3.466128889300281</heading>
+				<tilt>20.33658233107834</tilt>
+				<range>171.8565394710716</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24094931532275,19.12869606170889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 108 </name>
+			<description>8
+20181222_150306.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.24056258703774</longitude>
+				<latitude>19.12877450926606</latitude>
+				<altitude>0</altitude>
+				<heading>-3.466141285388012</heading>
+				<tilt>20.3365826732553</tilt>
+				<range>171.9661520996213</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24093648859433,19.12878167017225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150308.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1285508</code>, <b>Lon: </b><code>78.2407391</code><b></b><br/><br/><img src='files/20181222_150308.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150308.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2407391</longitude>
+				<latitude>19.1285508</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2407391,19.1285508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 109 </name>
+			<description>4
+20181222_150308.jpg
+(1,2)</description>
+			<Camera>
+				<longitude>78.24100485066322</longitude>
+				<latitude>19.12837381698178</latitude>
+				<altitude>188.2269546535802</altitude>
+				<heading>-3.243225360299095</heading>
+				<tilt>17.33587822289967</tilt>
+				<roll>-0.7201438900426364</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24081906218409,19.12874344913321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150313.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1285517</code>, <b>Lon: </b><code>78.2404912</code><b></b><br/><br/><img src='files/20181222_150313.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150313.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.24049119999999</longitude>
+				<latitude>19.1285517</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.24049119999999,19.1285517,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 110 </name>
+			<description>10
+20181222_150313.jpg
+(1,9)</description>
+			<Camera>
+				<longitude>78.24083254089426</longitude>
+				<latitude>19.12834931602023</latitude>
+				<altitude>207.8798448745584</altitude>
+				<heading>-3.06946258905548</heading>
+				<tilt>14.97696298214826</tilt>
+				<roll>-0.893958810795305</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24047902971094,19.1286923558787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 111 </name>
+			<description>8
+20181222_150313.jpg
+
+</description>
+			<Camera>
+				<longitude>78.24068502090849</longitude>
+				<latitude>19.12830321903594</latitude>
+				<altitude>207.4631538239424</altitude>
+				<heading>-3.069510928959315</heading>
+				<tilt>14.97696298214833</tilt>
+				<roll>-0.8939588107952099</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24058783987876,19.12873258677746,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 112 </name>
+			<description>8
+20181222_150313.jpg
+
+</description>
+			<Camera>
+				<longitude>78.24068502090849</longitude>
+				<latitude>19.12830321903594</latitude>
+				<altitude>207.4631538239424</altitude>
+				<heading>-3.069510928959315</heading>
+				<tilt>14.97696298214833</tilt>
+				<roll>-0.8939588107952099</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24057853950902,19.12879005437021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150324.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1285524</code>, <b>Lon: </b><code>78.2400031</code><b></b><br/><br/><img src='files/20181222_150324.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150324.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2400031</longitude>
+				<latitude>19.1285524</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2400031,19.1285524,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 113 </name>
+			<description>1
+20181222_150324.jpg
+(2,9)</description>
+			<Camera>
+				<longitude>78.23988456849519</longitude>
+				<latitude>19.12829569743149</latitude>
+				<altitude>188.6986731154277</altitude>
+				<heading>-2.64412329334697</heading>
+				<tilt>16.33061783866537</tilt>
+				<roll>-0.8763448763061345</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24011480834321,19.12869873890595,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 114 </name>
+			<description>2
+20181222_150324.jpg
+(2,11)</description>
+			<Camera>
+				<longitude>78.23988456849519</longitude>
+				<latitude>19.12829569743149</latitude>
+				<altitude>188.6986731154277</altitude>
+				<heading>-2.64412329334697</heading>
+				<tilt>16.33061783866537</tilt>
+				<roll>-0.8763448763061345</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23980115862861,19.12871676751383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150339.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1285515</code>, <b>Lon: </b><code>78.2392801</code><b></b><br/><br/><img src='files/20181222_150339.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150339.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2392801</longitude>
+				<latitude>19.1285515</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2392801,19.1285515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 115 </name>
+			<description>8
+20181222_150339.jpg
+
+</description>
+			<Camera>
+				<longitude>78.23905249710734</longitude>
+				<latitude>19.12832768986456</latitude>
+				<altitude>203.4155395141038</altitude>
+				<heading>-2.542733664645582</heading>
+				<tilt>14.4737697934032</tilt>
+				<roll>-0.9780102542136389</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.239204547006,19.12866782930205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150447.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1287342</code>, <b>Lon: </b><code>78.2380489</code><b></b><br/><br/><img src='files/20181222_150447.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150447.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2380489</longitude>
+				<latitude>19.1287342</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2380489,19.1287342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 116 </name>
+			<description>8
+20181222_150447.jpg
+
+</description>
+			<Camera>
+				<longitude>78.23806903266278</longitude>
+				<latitude>19.12836970363624</latitude>
+				<altitude>222.1766314530267</altitude>
+				<heading>-2.46949777757924</heading>
+				<tilt>13.12600227019893</tilt>
+				<roll>-1.051538475023556</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23820271874777,19.12878428311168,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 117 </name>
+			<description>8
+20181222_150447.jpg
+
+</description>
+			<Camera>
+				<longitude>78.23806903266278</longitude>
+				<latitude>19.12836970363624</latitude>
+				<altitude>222.1766314530267</altitude>
+				<heading>-2.46949777757924</heading>
+				<tilt>13.12600227019893</tilt>
+				<roll>-1.051538475023556</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23805773663491,19.12879763743031,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 118 </name>
+			<description>8
+20181222_150447.jpg
+
+</description>
+			<Camera>
+				<longitude>78.23806903266278</longitude>
+				<latitude>19.12836970363624</latitude>
+				<altitude>222.1766314530267</altitude>
+				<heading>-2.46949777757924</heading>
+				<tilt>13.12600227019893</tilt>
+				<roll>-1.051538475023556</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23795417981989,19.1287881168085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 119 </name>
+			<description>4
+20181222_150447.jpg
+(2,8)</description>
+			<Camera>
+				<longitude>78.23806903266278</longitude>
+				<latitude>19.12836970363624</latitude>
+				<altitude>222.1766314530267</altitude>
+				<heading>-2.46949777757924</heading>
+				<tilt>13.12600227019893</tilt>
+				<roll>-1.051538475023556</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23782953752784,19.12884604125747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150452.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1287357</code>, <b>Lon: </b><code>78.2382951</code><b></b><br/><br/><img src='files/20181222_150452.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150452.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2382951</longitude>
+				<latitude>19.1287357</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2382951,19.1287357,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 120 </name>
+			<description>1
+20181222_150452.jpg
+(2,5)(2,6)</description>
+			<Camera>
+				<longitude>78.238132756216</longitude>
+				<latitude>19.12842044113397</latitude>
+				<altitude>233.6366607596784</altitude>
+				<heading>-2.354926353000281</heading>
+				<tilt>11.01945744353393</tilt>
+				<roll>-1.166095393789459</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23831105085469,19.12888425216434,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150522.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1287318</code>, <b>Lon: </b><code>78.2397040</code><b></b><br/><br/><img src='files/20181222_150522.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150522.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.239704</longitude>
+				<latitude>19.1287318</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.239704,19.1287318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 121 </name>
+			<description>8
+20181222_150522.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.2396870844368</longitude>
+				<latitude>19.12923035408401</latitude>
+				<altitude>0</altitude>
+				<heading>-1.27740450215826</heading>
+				<tilt>31.14419729107097</tilt>
+				<range>234.0576566838644</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23968483039675,19.12896599910476,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150543.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1287326</code>, <b>Lon: </b><code>78.2406863</code><b></b><br/><br/><img src='files/20181222_150543.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150543.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.24068629999999</longitude>
+				<latitude>19.1287326</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.24068629999999,19.1287326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 122 </name>
+			<description>8
+20181222_150543.jpg
+
+</description>
+			<Camera>
+				<longitude>78.24083649188287</longitude>
+				<latitude>19.12823679542282</latitude>
+				<altitude>120.8395900349942</altitude>
+				<heading>-1.256605339495567</heading>
+				<tilt>27.37322546216539</tilt>
+				<roll>-0.5451227012799202</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24059600116904,19.12883906429904,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 123 </name>
+			<description>8
+20181222_150543.jpg
+
+</description>
+			<Camera>
+				<longitude>78.24083649188287</longitude>
+				<latitude>19.12823679542282</latitude>
+				<altitude>120.8395900349942</altitude>
+				<heading>-1.256605339495567</heading>
+				<tilt>27.37322546216539</tilt>
+				<roll>-0.5451227012799202</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24070298950258,19.12884246341379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 124 </name>
+			<description>8
+20181222_150543.jpg
+
+</description>
+			<Camera>
+				<longitude>78.24076513921776</longitude>
+				<latitude>19.12853621211201</latitude>
+				<altitude>75.84399351795088</altitude>
+				<heading>-1.230856863538586</heading>
+				<tilt>28.67302647801184</tilt>
+				<roll>-0.5223704620459168</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24060023881737,19.1288848203642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150548.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1287336</code>, <b>Lon: </b><code>78.2409086</code><b></b><br/><br/><img src='files/20181222_150548.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150548.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2409086</longitude>
+				<latitude>19.1287336</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2409086,19.1287336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 125 </name>
+			<description>4
+20181222_150548.jpg
+(2,9)</description>
+			<Camera>
+				<longitude>78.24103826289388</longitude>
+				<latitude>19.12845699764305</latitude>
+				<altitude>98.33009823759245</altitude>
+				<heading>-1.145215921339704</heading>
+				<tilt>21.94121680072437</tilt>
+				<roll>-0.6079207533473638</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.2409695149575,19.12888183214359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150606.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1287274</code>, <b>Lon: </b><code>78.2417438</code><b></b><br/><br/><img src='files/20181222_150606.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150606.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2417438</longitude>
+				<latitude>19.1287274</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2417438,19.1287274,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 126 </name>
+			<description>8
+20181222_150606.jpg
+
+</description>
+			<Camera>
+				<longitude>78.24183910106231</longitude>
+				<latitude>19.12852771137025</latitude>
+				<altitude>113.249217584107</altitude>
+				<heading>-1.12985143518586</heading>
+				<tilt>20.73456885228234</tilt>
+				<roll>-0.6230274279609266</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24163445789367,19.12891802593427,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 127 </name>
+			<description>4
+20181222_150606.jpg
+(1,3)</description>
+			<Camera>
+				<longitude>78.24211308590225</longitude>
+				<latitude>19.12851666488768</latitude>
+				<altitude>113.2639424159762</altitude>
+				<heading>-1.129761652527829</heading>
+				<tilt>20.73456885228239</tilt>
+				<roll>-0.6230274279610064</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.2418891623703,19.12896027631695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150659.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1289112</code>, <b>Lon: </b><code>78.2406392</code><b></b><br/><br/><img src='files/20181222_150659.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150659.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2406392</longitude>
+				<latitude>19.1289112</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2406392,19.1289112,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 128 </name>
+			<description>1
+20181222_150659.jpg
+(2,3)</description>
+			<Camera>
+				<longitude>78.24051277167058</longitude>
+				<latitude>19.12873137962139</latitude>
+				<altitude>129.9168137947198</altitude>
+				<heading>-1.086654840374974</heading>
+				<tilt>17.22621838117881</tilt>
+				<roll>-0.6666608565000526</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24070937968419,19.12893208480591,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 129 </name>
+			<description>4
+20181222_150659.jpg
+(2,3)(2,4)</description>
+			<Camera>
+				<longitude>78.24038147901301</longitude>
+				<latitude>19.12878173010296</latitude>
+				<altitude>129.7988026360233</altitude>
+				<heading>-1.086697862979457</heading>
+				<tilt>17.22621838117872</tilt>
+				<roll>-0.6666608565001047</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24057999865644,19.1290882246981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150717.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1289141</code>, <b>Lon: </b><code>78.2398004</code><b></b><br/><br/><img src='files/20181222_150717.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150717.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.23980039999999</longitude>
+				<latitude>19.1289141</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.23980039999999,19.1289141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 130 </name>
+			<description>1
+20181222_150717.jpg
+(2,1)</description>
+			<Camera>
+				<longitude>78.23940878141076</longitude>
+				<latitude>19.12875852913389</latitude>
+				<altitude>138.7134393725473</altitude>
+				<heading>-1.077418606425883</heading>
+				<tilt>16.45012032585477</tilt>
+				<roll>-0.6762638496979568</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.2397980627902,19.12900981027305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150735.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1289134</code>, <b>Lon: </b><code>78.2389606</code><b></b><br/><br/><img src='files/20181222_150735.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150735.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2389606</longitude>
+				<latitude>19.1289134</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2389606,19.1289134,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 131 </name>
+			<description>1
+20181222_150735.jpg
+(2,1)</description>
+			<Camera>
+				<longitude>78.23923964038836</longitude>
+				<latitude>19.12869103026285</latitude>
+				<altitude>156.2706562973602</altitude>
+				<heading>-1.059778350294749</heading>
+				<tilt>15.01704802067938</tilt>
+				<roll>-0.6939499012603076</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23900353896391,19.12911331965767,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150748.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1289128</code>, <b>Lon: </b><code>78.2383503</code><b></b><br/><br/><img src='files/20181222_150748.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150748.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.23835029999999</longitude>
+				<latitude>19.1289128</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.23835029999999,19.1289128,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 132 </name>
+			<description>7
+20181222_150748.jpg
+</description>
+			<Camera>
+				<longitude>78.23865317333198</longitude>
+				<latitude>19.12869738808021</latitude>
+				<altitude>170.0055429203356</altitude>
+				<heading>-1.046175245233678</heading>
+				<tilt>13.89717675491274</tilt>
+				<roll>-0.707737114794194</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23841990743946,19.12903335277462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150828.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1290951</code>, <b>Lon: </b><code>78.2374864</code><b></b><br/><br/><img src='files/20181222_150828.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150828.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2374864</longitude>
+				<latitude>19.1290951</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2374864,19.1290951,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 133 </name>
+			<description>1
+20181222_150828.jpg
+(2,1)</description>
+			<Camera>
+				<longitude>78.23777473875406</longitude>
+				<latitude>19.12869539288002</latitude>
+				<altitude>177.9475732503665</altitude>
+				<heading>-1.037882329012546</heading>
+				<tilt>13.19993208751829</tilt>
+				<roll>-0.7163103380397126</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23737573161296,19.12929650752831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150854.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1290935</code>, <b>Lon: </b><code>78.2386950</code><b></b><br/><br/><img src='files/20181222_150854.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150854.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.23869500000001</longitude>
+				<latitude>19.1290935</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.23869500000001,19.1290935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 134 </name>
+			<description>7
+20181222_150854.jpg
+</description>
+			<Camera>
+				<longitude>78.23827268174728</longitude>
+				<latitude>19.1287620158727</latitude>
+				<altitude>189.9267784580172</altitude>
+				<heading>-1.020816533875077</heading>
+				<tilt>11.82127284944951</tilt>
+				<roll>-0.7332191755202238</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23865617238205,19.12922022802376,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150901.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1290917</code>, <b>Lon: </b><code>78.2390441</code><b></b><br/><br/><img src='files/20181222_150901.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150901.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2390441</longitude>
+				<latitude>19.1290917</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2390441,19.1290917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 135 </name>
+			<description>2
+20181222_150901.jpg
+(1,4)(1,5)</description>
+			<Camera>
+				<longitude>78.2388286204074</longitude>
+				<latitude>19.12884861945376</latitude>
+				<altitude>200.858157434286</altitude>
+				<heading>-1.011876625660706</heading>
+				<tilt>11.10498888548912</tilt>
+				<roll>-0.7419851734168944</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23901348552664,19.12917476617221,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 136 </name>
+			<description>1
+20181222_150901.jpg
+(1,1)(1,6)(1,8)</description>
+			<Camera>
+				<longitude>78.23900394844077</longitude>
+				<latitude>19.12885518831617</latitude>
+				<altitude>201.1233865334723</altitude>
+				<heading>-1.011819170691426</heading>
+				<tilt>11.10498888548915</tilt>
+				<roll>-0.7419851734167612</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23905186224718,19.12916923925627,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_150911.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1290930</code>, <b>Lon: </b><code>78.2395074</code><b></b><br/><br/><img src='files/20181222_150911.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150911.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.23950739999999</longitude>
+				<latitude>19.129093</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.23950739999999,19.129093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 137 </name>
+			<description>2
+20181222_150911.jpg
+(1,12)</description>
+			<Camera>
+				<longitude>78.2391430551147</longitude>
+				<latitude>19.12884371332549</latitude>
+				<altitude>209.9857526975937</altitude>
+				<heading>-0.9972705452728141</heading>
+				<tilt>9.916901623857561</tilt>
+				<roll>-0.7564842566753481</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.2393326581511,19.12917638133182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 138 </name>
+			<description>6
+20181222_150911.jpg
+lower</description>
+			<Camera>
+				<longitude>78.23958144923847</longitude>
+				<latitude>19.12877634813189</latitude>
+				<altitude>210.5267430920565</altitude>
+				<heading>-0.9971268853478643</heading>
+				<tilt>9.916901623857561</tilt>
+				<roll>-0.7564842566755183</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23947342975896,19.12916506490554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 139 </name>
+			<description>6
+20181222_150911.jpg
+lower</description>
+			<Camera>
+				<longitude>78.23958144923847</longitude>
+				<latitude>19.12877634813189</latitude>
+				<altitude>210.5267430920565</altitude>
+				<heading>-0.9971268853478643</heading>
+				<tilt>9.916901623857561</tilt>
+				<roll>-0.7564842566755183</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23957513116204,19.12915344224321,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151001.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1290909</code>, <b>Lon: </b><code>78.2418867</code><b></b><br/><br/><img src='files/20181222_151001.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151001.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2418867</longitude>
+				<latitude>19.1290909</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2418867,19.1290909,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 140 </name>
+			<description>8
+20181222_151001.jpg
+</description>
+			<LookAt>
+				<longitude>78.24191704956556</longitude>
+				<latitude>19.12944706553337</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6052779410651895</heading>
+				<tilt>19.3464336270943</tilt>
+				<range>144.1894598032633</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24179723078015,19.12931252373208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151022.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1292778</code>, <b>Lon: </b><code>78.2422774</code><b></b><br/><br/><img src='files/20181222_151022.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151022.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.24227740000001</longitude>
+				<latitude>19.1292778</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.24227740000001,19.1292778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 141 </name>
+			<description>2
+20181222_151022.jpg
+(2,5)</description>
+			<LookAt>
+				<longitude>78.24197979896793</longitude>
+				<latitude>19.12945098012674</latitude>
+				<altitude>0</altitude>
+				<heading>-0.602179580249834</heading>
+				<tilt>18.81576648089505</tilt>
+				<range>150.5321973872482</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24223992471099,19.12939295955218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151022.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1292778</code>, <b>Lon: </b><code>78.2422774</code><b></b><br/><br/><img src='files/20181222_151022.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151022.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.24227740000001</longitude>
+				<latitude>19.1292778</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.24227740000001,19.1292778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 142 </name>
+			<description>8
+20181222_151022.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.24223753108927</longitude>
+				<latitude>19.12962115122461</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5982127054337315</heading>
+				<tilt>18.14525659343824</tilt>
+				<range>158.4878835022246</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24227744970972,19.12949799016266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 143 </name>
+			<description>8
+20181222_151022.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.24211493415314</longitude>
+				<latitude>19.12970628823409</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5982528804517857</heading>
+				<tilt>18.14525606733914</tilt>
+				<range>158.2998084021567</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24226430740717,19.12954346273272,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 144 </name>
+			<description>8
+20181222_151022.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.24207622938717</longitude>
+				<latitude>19.1297045710747</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5982655642336845</heading>
+				<tilt>18.14525590119601</tilt>
+				<range>158.2404243194455</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24212465028934,19.12949586556779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 145 </name>
+			<description>8
+20181222_151022.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.24192210219457</longitude>
+				<latitude>19.12951770638191</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5983160722669629</heading>
+				<tilt>18.14525523965522</tilt>
+				<range>158.0039436559001</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24200027643344,19.12955020414877,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151030.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1292736</code>, <b>Lon: </b><code>78.2419070</code><b></b><br/><br/><img src='files/20181222_151030.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151030.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.241907</longitude>
+				<latitude>19.1292736</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.241907,19.1292736,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 146 </name>
+			<description>8
+20181222_151030.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.24178308471922</longitude>
+				<latitude>19.12951055909432</latitude>
+				<altitude>0</altitude>
+				<heading>-0.5947954126045136</heading>
+				<tilt>17.52875058834447</tilt>
+				<range>164.2150758113947</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24189116139165,19.12949774870403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151043.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1292732</code>, <b>Lon: </b><code>78.2412959</code><b></b><br/><br/><img src='files/20181222_151043.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151043.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2412959</longitude>
+				<latitude>19.1292732</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2412959,19.1292732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 147 </name>
+			<description>4
+20181222_151043.jpg
+(2,1)</description>
+			<LookAt>
+				<longitude>78.24123140496249</longitude>
+				<latitude>19.12939685554067</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2507917641775564</heading>
+				<tilt>41.77505693517328</tilt>
+				<range>144.7850924350406</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24141080768004,19.12951182596368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151110.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1292749</code>, <b>Lon: </b><code>78.2400060</code><b></b><br/><br/><img src='files/20181222_151110.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151110.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.24000599999999</longitude>
+				<latitude>19.1292749</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.24000599999999,19.1292749,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 148 </name>
+			<description>4
+20181222_151110.jpg
+(2,3)</description>
+			<LookAt>
+				<longitude>78.23987307733813</longitude>
+				<latitude>19.12949198698685</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2496347767415632</heading>
+				<tilt>40.68293873696519</tilt>
+				<range>147.9008391602419</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.2399241265253,19.1294971025505,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151125.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1292743</code>, <b>Lon: </b><code>78.2392917</code><b></b><br/><br/><img src='files/20181222_151125.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151125.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2392917</longitude>
+				<latitude>19.1292743</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2392917,19.1292743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 149 </name>
+			<description>8
+20181222_151125.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.23931085860463</longitude>
+				<latitude>19.1294958472926</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2469839280296974</heading>
+				<tilt>38.73453601110592</tilt>
+				<range>156.0533734512833</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23942087105894,19.12935893707549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151135.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1292730</code>, <b>Lon: </b><code>78.2388233</code><b></b><br/><br/><img src='files/20181222_151135.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151135.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.23882330000001</longitude>
+				<latitude>19.129273</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.23882330000001,19.129273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 150 </name>
+			<description>2
+20181222_151135.jpg
+(2,7)</description>
+			<LookAt>
+				<longitude>78.23888524592921</longitude>
+				<latitude>19.1294576477856</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2454160789071153</heading>
+				<tilt>37.55223015559792</tilt>
+				<range>162.0545724523435</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23891820350353,19.12941234317374,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151225.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1294588</code>, <b>Lon: </b><code>78.2372927</code><b></b><br/><br/><img src='files/20181222_151225.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151225.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2372927</longitude>
+				<latitude>19.1294588</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2372927,19.1294588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 151 </name>
+			<description>7
+20181222_151225.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.2373898923006</longitude>
+				<latitude>19.12959816076303</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2312129948189188</heading>
+				<tilt>27.097617661886</tilt>
+				<range>181.0864862181885</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23726291889849,19.12958112057963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151233.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1294564</code>, <b>Lon: </b><code>78.2376543</code><b></b><br/><br/><img src='files/20181222_151233.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151233.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2376543</longitude>
+				<latitude>19.1294564</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2376543,19.1294564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 152 </name>
+			<description>10
+20181222_151233.jpg
+(2,2)</description>
+			<LookAt>
+				<longitude>78.23787049083457</longitude>
+				<latitude>19.12963316012615</latitude>
+				<altitude>0</altitude>
+				<heading>-0.228829070848303</heading>
+				<tilt>25.46428685929455</tilt>
+				<range>193.0532010724723</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23774263091546,19.12948946452665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151208.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1292758</code>, <b>Lon: </b><code>78.2372510</code><b></b><br/><br/><img src='files/20181222_151208.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151208.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.237251</longitude>
+				<latitude>19.1292758</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.237251,19.1292758,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 153 </name>
+			<description>2
+20181222_151208.jpg
+(2,7)</description>
+			<LookAt>
+				<longitude>78.23726355122957</longitude>
+				<latitude>19.12952463862907</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2257382306142642</heading>
+				<tilt>23.04409885833333</tilt>
+				<range>206.9648997345276</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23715011072399,19.12943531349861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151238.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1294584</code>, <b>Lon: </b><code>78.2379007</code><b></b><br/><br/><img src='files/20181222_151238.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151238.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2379007</longitude>
+				<latitude>19.1294584</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2379007,19.1294584,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 154 </name>
+			<description>1
+20181222_151238.jpg
+(2,1)</description>
+			<LookAt>
+				<longitude>78.23764499749208</longitude>
+				<latitude>19.12958724989424</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2165072592628051</heading>
+				<tilt>19.95646224940279</tilt>
+				<range>213.3504784948723</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23796713765211,19.12957388002619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151340.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1294565</code>, <b>Lon: </b><code>78.2408335</code><b></b><br/><br/><img src='files/20181222_151340.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151340.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.24083349999999</longitude>
+				<latitude>19.1294565</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.24083349999999,19.1294565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 155 </name>
+			<description>8
+20181222_151340.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.24081316574326</longitude>
+				<latitude>19.12981044116826</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2133012593052246</heading>
+				<tilt>18.86930627146979</tilt>
+				<range>227.0701868258096</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24085052709346,19.1296662118821,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151401.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1294544</code>, <b>Lon: </b><code>78.2418004</code><b></b><br/><br/><img src='files/20181222_151401.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151401.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2418004</longitude>
+				<latitude>19.1294544</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2418004,19.1294544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 156 </name>
+			<description>10
+20181222_151401.jpg
+(2,5)</description>
+			<LookAt>
+				<longitude>78.24166295083387</longitude>
+				<latitude>19.12956282704084</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2088064948581407</heading>
+				<tilt>16.73134523471529</tilt>
+				<range>239.17457765601</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24167001338321,19.12955243047017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 157 </name>
+			<description>Single cell
+20181222_151401.jpg
+(2,7)</description>
+			<LookAt>
+				<longitude>78.24185489766235</longitude>
+				<latitude>19.12948531481527</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2087435984494787</heading>
+				<tilt>16.73134599043406</tilt>
+				<range>239.4668213102169</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24177649722324,19.12954463878759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151430.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1296329</code>, <b>Lon: </b><code>78.2421285</code><b></b><br/><br/><img src='files/20181222_151430.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151430.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.24212850000001</longitude>
+				<latitude>19.1296329</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.24212850000001,19.1296329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 158 </name>
+			<description>8
+20181222_151430.jpg
+</description>
+			<LookAt>
+				<longitude>78.24199389888337</longitude>
+				<latitude>19.12972940698754</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2030788040946612</heading>
+				<tilt>13.86240524302247</tilt>
+				<range>245.6246716908634</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24201314861958,19.12964906215811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 159 </name>
+			<description>4
+20181222_151430.jpg
+(1,2)</description>
+			<LookAt>
+				<longitude>78.24199389888337</longitude>
+				<latitude>19.12972940698754</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2030788040946612</heading>
+				<tilt>13.86240524302247</tilt>
+				<range>245.6246716908634</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24202524222314,19.12969789358814,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 160 </name>
+			<description>4
+20181222_151430.jpg
+(1,10)</description>
+			<LookAt>
+				<longitude>78.24199389888337</longitude>
+				<latitude>19.12972940698754</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2030788040946612</heading>
+				<tilt>13.86240524302247</tilt>
+				<range>245.6246716908634</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24204231185124,19.12974727675041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 161 </name>
+			<description>2
+20181222_151430.jpg
+(2,3)</description>
+			<LookAt>
+				<longitude>78.24172451075913</longitude>
+				<latitude>19.12981616947389</latitude>
+				<altitude>0</altitude>
+				<heading>-0.2031670857403048</heading>
+				<tilt>13.86240427500112</tilt>
+				<range>245.1748917529486</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24215117458813,19.12989511593963,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151440.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1296343</code>, <b>Lon: </b><code>78.2416653</code><b></b><br/><br/><img src='files/20181222_151440.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151440.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.24166529999999</longitude>
+				<latitude>19.1296343</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.24166529999999,19.1296343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 162 </name>
+			<description>2
+20181222_151440.jpg
+(2,4)</description>
+			<LookAt>
+				<longitude>78.24173045811322</longitude>
+				<latitude>19.12982651842713</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1420667959118305</heading>
+				<tilt>17.91726726413334</tilt>
+				<range>168.8754278240414</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24167539568811,19.12985158326118,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151445.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1296356</code>, <b>Lon: </b><code>78.2414215</code><b></b><br/><br/><img src='files/20181222_151445.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151445.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2414215</longitude>
+				<latitude>19.1296356</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2414215,19.1296356,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 163 </name>
+			<description>2
+20181222_151445.jpg
+(2,2)</description>
+			<LookAt>
+				<longitude>78.24162057584216</longitude>
+				<latitude>19.12977599291121</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1409758856285251</heading>
+				<tilt>16.96359136706804</tilt>
+				<range>177.8164272808425</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24139647426797,19.12971386038768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 164 </name>
+			<description>2
+20181222_151445.jpg
+(2,5)</description>
+			<LookAt>
+				<longitude>78.24161203542208</longitude>
+				<latitude>19.12980552596329</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1409786839974942</heading>
+				<tilt>16.96359118087338</tilt>
+				<range>177.745371509621</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24142212935905,19.12985320068934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151458.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1296355</code>, <b>Lon: </b><code>78.2408450</code><b></b><br/><br/><img src='files/20181222_151458.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151458.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.24084499999999</longitude>
+				<latitude>19.1296355</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.24084499999999,19.1296355,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 165 </name>
+			<description>2
+20181222_151458.jpg
+(2,12)</description>
+			<LookAt>
+				<longitude>78.24089291908535</longitude>
+				<latitude>19.12969482832501</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1392012922565442</heading>
+				<tilt>15.26169151484889</tilt>
+				<range>186.7683796623499</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24087044068061,19.12980312264447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 166 </name>
+			<description>2
+20181222_151458.jpg
+(1,12)</description>
+			<LookAt>
+				<longitude>78.24103452670271</longitude>
+				<latitude>19.12973751917437</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1391548861392893</heading>
+				<tilt>15.26169186832507</tilt>
+				<range>186.9178832639726</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.24086066652906,19.12985441929492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151535.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1296368</code>, <b>Lon: </b><code>78.2390824</code><b></b><br/><br/><img src='files/20181222_151535.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151535.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2390824</longitude>
+				<latitude>19.1296368</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2390824,19.1296368,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 167 </name>
+			<description>2
+20181222_151535.jpg
+(2,9)</description>
+			<LookAt>
+				<longitude>78.23881907347719</longitude>
+				<latitude>19.12991499125334</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1389438427239976</heading>
+				<tilt>14.47709605287013</tilt>
+				<range>192.3990930782245</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23906440173869,19.12981370235249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151543.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1296359</code>, <b>Lon: </b><code>78.2387119</code><b></b><br/><br/><img src='files/20181222_151543.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151543.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.2387119</longitude>
+				<latitude>19.1296359</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.2387119,19.1296359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 168 </name>
+			<description>2
+20181222_151543.jpg
+(2,9-10)</description>
+			<LookAt>
+				<longitude>78.23861184759171</longitude>
+				<latitude>19.12964664900392</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1342995301756971</heading>
+				<tilt>10.53451251488475</tilt>
+				<range>212.5115716909267</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23867548436439,19.12981700379809,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 169 </name>
+			<description>8
+20181222_151543.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.23861184759171</longitude>
+				<latitude>19.12964664900392</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1342995301756971</heading>
+				<tilt>10.53451251488475</tilt>
+				<range>212.5115716909267</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23870095818477,19.12981099698153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>20181222_151638.jpg</name>
+			<visibility>0</visibility>
+			<description><![CDATA[<b>Lat: </b><code>19.1298196</code>, <b>Lon: </b><code>78.2374493</code><b></b><br/><br/><img src='files/20181222_151638.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_151638.jpg</code><hr/>]]></description>
+			<LookAt>
+				<longitude>78.23744929999999</longitude>
+				<latitude>19.1298196</latitude>
+				<altitude>0</altitude>
+				<heading>0</heading>
+				<tilt>0</tilt>
+				<range>300</range>
+			</LookAt>
+			<Point>
+				<coordinates>78.23744929999999,19.1298196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 169 </name>
+			<description>1
+20181222_151638.jpg
+(2,11)</description>
+			<LookAt>
+				<longitude>78.23735613784277</longitude>
+				<latitude>19.12961762676882</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1319039098021077</heading>
+				<tilt>8.220562550871195</tilt>
+				<range>229.5250829966933</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.2374754179874,19.12985979256751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 170 </name>
+			<description>1
+20181222_151638.jpg
+(2,1)</description>
+			<LookAt>
+				<longitude>78.23733856922821</longitude>
+				<latitude>19.12988755895302</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1319096744382087</heading>
+				<tilt>8.220560819249979</tilt>
+				<range>228.176893690533</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23761947161373,19.12985963726994,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 171 </name>
+			<description>7
+20181222_151638.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.23942293213406</longitude>
+				<latitude>19.12991193306594</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1312266185221376</heading>
+				<tilt>8.220570508322822</tilt>
+				<range>235.7207505426407</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23947168313688,19.12993078671775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name> 172 </name>
+			<description>7
+20181222_151638.jpg
+
+</description>
+			<LookAt>
+				<longitude>78.23882014058603</longitude>
+				<latitude>19.12981018090774</latitude>
+				<altitude>0</altitude>
+				<heading>-0.131424183398533</heading>
+				<tilt>8.220569567064413</tilt>
+				<range>234.9878362084397</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>78.23960029980263,19.12992173272233,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
