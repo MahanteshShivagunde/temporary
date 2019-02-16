@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>P5map</name>
+	<description>Source Image: D:\14w\acmenirmal\P5map\UntitledMapP5_Orthomosaic_export_SunDec23064035.tif</description>
+	<Icon>
+		<href>UntitledMapP5_Orthomosaic_export_SunDec23064035_scaled.png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<LatLonBox>
+		<north>19.13000489471813</north>
+		<south>19.12822082404163</south>
+		<east>78.24265483098661</east>
+		<west>78.23673248291013</west>
+	</LatLonBox>
+</GroundOverlay>
+</kml>
