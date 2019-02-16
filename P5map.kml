@@ -4,7 +4,7 @@
 	<name>P5map</name>
 	<description>Source Image: D:\14w\acmenirmal\P5map\UntitledMapP5_Orthomosaic_export_SunDec23064035.tif</description>
 	<Icon>
-		<href>UntitledMapP5_Orthomosaic_export_SunDec23064035_scaled.png</href>
+		<href>https://raw.githubusercontent.com/MahanteshShivagunde/temporary/master/UntitledMapP5_Orthomosaic_export_SunDec23064035_scaled.png</href>
 		<viewBoundScale>0.75</viewBoundScale>
 	</Icon>
 	<LatLonBox>
