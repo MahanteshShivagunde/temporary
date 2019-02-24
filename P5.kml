@@ -337,7 +337,7 @@
 		<Placemark>
 			<name>20181222_150339.jpg</name>
 			<visibility>0</visibility>
-			<description><![CDATA[<b>Lat: </b><code>19.1285515</code>, <b>Lon: </b><code>78.2392801</code><b></b><br/><br/><img src='files/20181222_150339.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150339.jpg</code><hr/>]]></description>
+			<description><![CDATA[<b>Lat: </b><code>19.1285515</code>, <b>Lon: </b><code>78.2392801</code><b></b><br/><br/><img src='/static/20181222_150339.jpg' width='200'/><br/><br/><b>File:</b><br/><code>D:\14w\acmenirmal\P5\P5\20181222_150339.jpg</code><hr/>]]></description>
 			<LookAt>
 				<longitude>78.2392801</longitude>
 				<latitude>19.1285515</latitude>
